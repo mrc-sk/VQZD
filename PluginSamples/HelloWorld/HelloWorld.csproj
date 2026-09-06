@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net48;net10.0</TargetFrameworks>
+    <Nullable>enable</Nullable>
+    <LangVersion>latest</LangVersion>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>VQZD.Plugin.HelloWorld</AssemblyName>
+    <RootNamespace>VQZD.Plugin.HelloWorld</RootNamespace>
+    <Version>1.0.0</Version>
+    <Company>VQZD 官方示例</Company>
+    <Description>示例插件：运行时写入一行日志并返回问候语。</Description>
+    <SatelliteResourceLanguages>zh-Hans;en</SatelliteResourceLanguages>
+  </PropertyGroup>
+
+</Project>
